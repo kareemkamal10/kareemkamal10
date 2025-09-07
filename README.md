@@ -1,13 +1,14 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h4 align="center">
+  
   Welcome to kareemkamal10's Profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 </h4>
 
 <!-- Typing SVG by DenverCoder1 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20App%20Developer;Mobile%20App%20Developer;Desktop%20App%20Developer&font=Fira%20Code:bold&center=true&width=550&height=60&color=00ffff&vCenter=true&size=26&stroke=ffffff&strokeWidth=1">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20App%20Developer;Mobile%20App%20Developer;Desktop%20App%20Developer&font=Fira%20Code:bold&center=true&width=550&height=50&color=00ffff&vCenter=true&size=23&stroke=ffffff&strokeWidth=1">
 </p>
 
 
