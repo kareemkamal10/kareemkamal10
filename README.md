@@ -18,60 +18,8 @@
 
 <br/><br/> 
 
-<!-- Achievements Section, with custom background for each box -->
-<div align="center" style="margin-bottom: 24px;">
-
-  <div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center;">
-
-    <div style="background: #f7f7f7; border-radius: 12px; padding: 16px 28px; min-width: 120px;">
-      <strong>Commits</strong><br>
-      <span>Hyper Committer</span><br>
-      <span>459pt</span>
-    </div>
-
-    <div style="background: #ededed; border-radius: 12px; padding: 16px 28px; min-width: 120px;">
-      <strong>Followers</strong><br>
-      <span>First Friend</span><br>
-      <span>2pt</span>
-    </div>
-
-    <div style="background: #e2e2e2; border-radius: 12px; padding: 16px 28px; min-width: 120px;">
-      <strong>Repositories</strong><br>
-      <span>First Repository</span><br>
-      <span>6pt</span>
-    </div>
-
-    <div style="background: #d8d8d8; border-radius: 12px; padding: 16px 28px; min-width: 120px;">
-      <strong>Stars</strong><br>
-      <span>Unknown</span><br>
-      <span>0pt</span>
-    </div>
-
-    <div style="background: #cccccc; border-radius: 12px; padding: 16px 28px; min-width: 120px;">
-      <strong>Issues</strong><br>
-      <span>Unknown</span><br>
-      <span>0pt</span>
-    </div>
-
-    <div style="background: #c2c2c2; border-radius: 12px; padding: 16px 28px; min-width: 120px;">
-      <strong>PullRequest</strong><br>
-      <span>Unknown</span><br>
-      <span>0pt</span>
-    </div>
-
-    <div style="background: #b8b8b8; border-radius: 12px; padding: 16px 28px; min-width: 120px;">
-      <strong>Reviews</strong><br>
-      <span>Unknown</span><br>
-      <span>0pt</span>
-    </div>
-
-    <div style="background: #aeaeae; border-radius: 12px; padding: 16px 28px; min-width: 120px;">
-      <strong>Experience</strong><br>
-      <span>Unknown</span><br>
-      <span>1pt</span>
-    </div>
-  </div>
-</div>
+<br/><br/> 
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareemkamal10" alt="mohamedamr77" /></a> </p>
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
