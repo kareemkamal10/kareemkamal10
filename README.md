@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Mobile%20Developer;Desktop%20Developer&font=Fira%20Code:bold&center=true&width=500&height=60&color=00ffff&vCenter=true&size=26&stroke=ffffff&strokeWidth=1">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20App%20Developer;Mobile%20App%20Developer;Desktop%20App%20Developer&font=Fira%20Code:bold&center=true&width=550&height=60&color=00ffff&vCenter=true&size=26&stroke=ffffff&strokeWidth=1">
 </p>
 
 
