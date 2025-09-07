@@ -29,8 +29,7 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&animation=spin&svgfill=15d8fe">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffa611">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&svgfill=3ddc84">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=apple&svgfill=ffffff">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cli&svgfill=777777">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ios&svgfill=ffffff">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=githubactions&svgfill=2088ff">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=659b60">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=df5c43">
