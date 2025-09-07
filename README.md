@@ -11,12 +11,12 @@
 </p>
 
 
-- 🏢 Mobile Apps Developer & Software Engineer
-- 👨‍💻 Passionate about learning new technologies and exploring software secrets
-- 🛠 Experienced in: Flutter, Firebase, Android, iOS, CLI, GitHub Actions, Reverse Engineering
-- 💬 Ask me about mobile app development or reverse engineering
-- ⚡ Motto: "Work silently, let success make the noise!"
-
+- 🏢 Mobile Apps Developer (Flutter – Android, iOS)  
+- 🖥️ Desktop Apps Developer (Flutter – Windows, macOS, Linux)  
+- 💻 Software Engineer  
+- 👨‍💻 Passionate about learning new technologies and exploring software secrets  
+- 💬 Ask me about mobile/desktop app development or reverse engineering  
+- ⚡ Motto: "Work silently, let success make the noise!"  
 
 <br/><br/> 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareemkamal10" alt="mohamedamr77" /></a> </p>
