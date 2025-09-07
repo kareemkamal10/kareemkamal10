@@ -7,8 +7,11 @@
 
 <!-- Typing SVG by DenverCoder1 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Developer;Software%20Engineer;Reverse%20Engineering%20Enthusiast;Always%20Learning%20New%20Tech&font=Fira%20Code&center=true&width=440&height=45&color=F7F7F7&vCenter=true&pause=1000">
-</p> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20developer;mobile%20developer;desktop%20developer&font=Fira%20Code&center=true&width=440&height=45&color=00ffff&vCenter=true&size=22&background=ffffff">
+  </a>
+</p>
+
 
 - 🏢 Mobile Apps Developer & Software Engineer
 - 👨‍💻 Passionate about learning new technologies and exploring software secrets
@@ -16,7 +19,6 @@
 - 💬 Ask me about mobile app development or reverse engineering
 - ⚡ Motto: "Work silently, let success make the noise!"
 
-<br/><br/> 
 
 <br/><br/> 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareemkamal10" alt="mohamedamr77" /></a> </p>
