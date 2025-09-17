@@ -20,7 +20,7 @@
 - ⚡ Motto: "Work silently, let success make the noise!"  
 
 <br/><br/> 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareemkamal10" alt="mohamedamr77" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareemkamal10" alt="" /></a> </p>
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
